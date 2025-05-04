@@ -42,16 +42,16 @@
       I am a Full-Stack Developer with 8+ years of experience building robust front-end and back-end applications using 
       <strong>Angular</strong>, <strong>Vue.js</strong>, and <strong>Node.js</strong>. 
       Currently, I am upskilling in <strong>AWS</strong> and pursuing a 
-      <strong>Master’s in Information Systems</strong> to deliver scalable, secure, and high-performing cloud-based solutions. 
+      <strong>Master of Science in Information Systems</strong> to deliver scalable, secure, and high-performing cloud-based solutions. 
     </p>
   </div>
 </section>
 
   
       <!-- Skills Section -->
-      <section class="container my-5" data-aos="fade-up">
+      <section class="container" data-aos="fade-up">
         <Skills />
-</section>
+      </section>
 
   
       <!-- Timeline & Projects -->
