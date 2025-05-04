@@ -1,0 +1,33 @@
+/* src/assets/styles/main.css */
+
+/* Default (Light) Theme */
+:root {
+    --primary-bg-color: #f8f9fa;
+    --primary-text-color: #212529;
+    --secondary-bg-color: #ffffff;
+    --highlight-color: #42b883; /* Vue green */
+  }
+  
+  /* Dark Mode Variables */
+  .dark {
+    --primary-bg-color: #121212;
+    --primary-text-color: #f1f1f1;
+    --secondary-bg-color: #2b2b2b;
+    --highlight-color: #00f2fe; /* Bright cyan for dark mode */
+  }
+  
+  /* Apply these globally */
+  body {
+    background-color: var(--primary-bg-color);
+    color: var(--primary-text-color);
+  }
+  
+  header, footer {
+    background-color: var(--secondary-bg-color);
+  }
+  
+  /* Accent color for buttons */
+  button {
+    background-color: var(--highlight-color);
+  }
+  
