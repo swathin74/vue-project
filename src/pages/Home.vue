@@ -69,7 +69,7 @@
         <div class="card-body">
           <h5 class="card-title">Microfrontend Migration</h5>
           <p class="card-text">Migrated a legacy Angular app to Vue.js with micro-frontend architecture using Webpack Module Federation.</p>
-          <a href="https://github.com/yourusername/microfrontend-migration" target="_blank" class="btn btn-primary">View</a>
+          <a href="https://www.pmaccelerator.io/" target="_blank" class="btn btn-dark">View</a>
         </div>
       </div>
     </div>
@@ -80,7 +80,7 @@
         <div class="card-body">
           <h5 class="card-title">Weather Dashboard</h5>
           <p class="card-text">Real-time weather app using Vue and OpenWeather API. Displays current and forecasted weather info.</p>
-          <a href="https://weather-app-new-n2j2.vercel.app/" target="_blank" class="btn btn-primary">View</a>
+          <a href="https://weather-app-new-n2j2.vercel.app/" target="_blank" class="btn btn-dark">View</a>
         </div>
       </div>
     </div>
